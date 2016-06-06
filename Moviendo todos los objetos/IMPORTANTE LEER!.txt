@@ -1,0 +1,9 @@
+Texturas tiles con todas las imagenes en una misma y coger sectores
+
+Mejor por separado
+Coger un cuadro y meter la torreta para que quede bien centrado?
+Revisar el tamaño del cuadro pk lo he igualado a la defensa y en realidad es la defensa la que hay que igualar al cuadro
+
+Despues de estar realizando proyecto grafica descubierto que los timers estan mal echos. Utilizar un timer normal sin
+lo que yo he echo.
+Puedo bloquear un botón mientras dejas pulsado y que no se realice la función con la boolean enUso en el objeto de la clase UI.
