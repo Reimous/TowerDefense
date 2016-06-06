@@ -24,6 +24,7 @@ Public Class TowerDefense
     'Dim escenario As Rectangle
     Dim pbImage, bitmapDestino As Bitmap
 
+
     Dim brushSuelo, brushEnemy, brushPuntero, brushBtn As TextureBrush
 
     'Dim esquinaSuperior, EsquinaInferior As Short 'Identifica el numero de cuadro correspondiente al de arriba de todo y al de abajo de todo del tablero
